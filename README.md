@@ -1,9 +1,8 @@
 ## Hi there 👋
 🤪
-`some code`
 <!--
 **dudigoo/dudigoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+`some code`
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
